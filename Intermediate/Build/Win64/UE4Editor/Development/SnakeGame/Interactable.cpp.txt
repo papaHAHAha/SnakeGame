@@ -1,0 +1,3 @@
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h
+C:\my documents\Unreal Projects\SnakeGame\Source\SnakeGame\Interactable.h
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\Interactable.generated.h

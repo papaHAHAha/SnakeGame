@@ -1,0 +1,5 @@
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\my documents\Unreal Projects\SnakeGame\Source\SnakeGame/FoodSpawner.h
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\FoodSpawner.generated.h

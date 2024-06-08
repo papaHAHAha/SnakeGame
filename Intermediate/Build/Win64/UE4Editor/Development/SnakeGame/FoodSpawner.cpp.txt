@@ -1,0 +1,10 @@
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h
+C:\my documents\Unreal Projects\SnakeGame\Source\SnakeGame\FoodSpawner.h
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\FoodSpawner.generated.h
+C:\my documents\Unreal Projects\SnakeGame\Source\SnakeGame\Food.h
+C:\my documents\Unreal Projects\SnakeGame\Source\SnakeGame\Interactable.h
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\Interactable.generated.h
+C:\my documents\Unreal Projects\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\Food.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
